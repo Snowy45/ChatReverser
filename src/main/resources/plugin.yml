@@ -1,0 +1,10 @@
+name: ChatReverser
+version: ${project.version}
+main: me.ItsSn0wy.ChatReverser
+authors: [ ItsSn0wy ]
+
+
+permissions:
+  chat.Reverse:
+    default: false
+    description: Reverses everything the player types in the chat
